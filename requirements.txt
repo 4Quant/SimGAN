@@ -2,4 +2,5 @@ git+https://github.com/wayaai/deep-learning-utils.git
 git+https://github.com/fchollet/keras.git
 matplotlib
 numpy
-tensorflow
+tensorflow>=1.1.0
+h5py
